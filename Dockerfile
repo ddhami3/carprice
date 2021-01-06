@@ -38,4 +38,4 @@ email = \"\"\n\
 RUN bash -c 'echo -e "\
 [server]\n\
 enableCORS = false\n\
-" > /root/.streamlit/config.toml'
+" > /root/.streamlit/config.toml' 
